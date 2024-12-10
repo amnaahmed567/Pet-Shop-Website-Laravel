@@ -31,7 +31,7 @@ Welcome to **Bonsai Pet Shop**, an innovative e-commerce platform where pet enth
 
 ---
 
-## 🧑‍🤝‍🧑 Team Members
+## ⋆⭒˚𖠋𖠋𖠋*.⋆ Team Members
 
 | **Name**             | **Reg ID**      |  
 |----------------------|-----------------|  
